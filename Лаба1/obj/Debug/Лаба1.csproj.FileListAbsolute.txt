@@ -1,0 +1,90 @@
+C:\Users\MI\YandexDisk\МТУСИ\4 Семестр\СиАОД\Лаба1\Лаба1\Лаба1\Лаба1\obj\Debug\Лаба1.csprojResolveAssemblyReference.cache
+C:\Users\MI\YandexDisk\МТУСИ\4 Семестр\СиАОД\Лаба1\Лаба1\Лаба1\Лаба1\obj\Debug\Лаба1.Form1.resources
+C:\Users\MI\YandexDisk\МТУСИ\4 Семестр\СиАОД\Лаба1\Лаба1\Лаба1\Лаба1\obj\Debug\Лаба1.Properties.Resources.resources
+C:\Users\MI\YandexDisk\МТУСИ\4 Семестр\СиАОД\Лаба1\Лаба1\Лаба1\Лаба1\obj\Debug\Лаба1.csproj.GenerateResource.cache
+C:\Users\MI\YandexDisk\МТУСИ\4 Семестр\СиАОД\Лаба1\Лаба1\Лаба1\Лаба1\obj\Debug\Лаба1.csproj.CoreCompileInputs.cache
+C:\Users\MI\YandexDisk\МТУСИ\4 Семестр\СиАОД\Лаба1\Лаба1\Лаба1\Лаба1\bin\Debug\Лаба1.exe.config
+C:\Users\MI\YandexDisk\МТУСИ\4 Семестр\СиАОД\Лаба1\Лаба1\Лаба1\Лаба1\bin\Debug\Лаба1.exe
+C:\Users\MI\YandexDisk\МТУСИ\4 Семестр\СиАОД\Лаба1\Лаба1\Лаба1\Лаба1\bin\Debug\Лаба1.pdb
+C:\Users\MI\YandexDisk\МТУСИ\4 Семестр\СиАОД\Лаба1\Лаба1\Лаба1\Лаба1\obj\Debug\Лаба1.exe
+C:\Users\MI\YandexDisk\МТУСИ\4 Семестр\СиАОД\Лаба1\Лаба1\Лаба1\Лаба1\obj\Debug\Лаба1.pdb
+C:\Users\MI\YandexDisk\МТУСИ\4 Семестр\СиАОД\Лаба1\Лаба1\bin\Debug\Лаба1.exe.config
+C:\Users\MI\YandexDisk\МТУСИ\4 Семестр\СиАОД\Лаба1\Лаба1\bin\Debug\Лаба1.exe
+C:\Users\MI\YandexDisk\МТУСИ\4 Семестр\СиАОД\Лаба1\Лаба1\bin\Debug\Лаба1.pdb
+C:\Users\MI\YandexDisk\МТУСИ\4 Семестр\СиАОД\Лаба1\Лаба1\obj\Debug\Лаба1.csprojResolveAssemblyReference.cache
+C:\Users\MI\YandexDisk\МТУСИ\4 Семестр\СиАОД\Лаба1\Лаба1\obj\Debug\Лаба1.Form1.resources
+C:\Users\MI\YandexDisk\МТУСИ\4 Семестр\СиАОД\Лаба1\Лаба1\obj\Debug\Лаба1.Properties.Resources.resources
+C:\Users\MI\YandexDisk\МТУСИ\4 Семестр\СиАОД\Лаба1\Лаба1\obj\Debug\Лаба1.csproj.GenerateResource.cache
+C:\Users\MI\YandexDisk\МТУСИ\4 Семестр\СиАОД\Лаба1\Лаба1\obj\Debug\Лаба1.csproj.CoreCompileInputs.cache
+C:\Users\MI\YandexDisk\МТУСИ\4 Семестр\СиАОД\Лаба1\Лаба1\obj\Debug\Лаба1.exe
+C:\Users\MI\YandexDisk\МТУСИ\4 Семестр\СиАОД\Лаба1\Лаба1\obj\Debug\Лаба1.pdb
+D:\Program Files\YandexDisk\МТУСИ\4 Семестр\СиАОД\Лаба1\Лаба1\bin\Debug\Лаба1.exe.config
+D:\Program Files\YandexDisk\МТУСИ\4 Семестр\СиАОД\Лаба1\Лаба1\bin\Debug\Лаба1.exe
+D:\Program Files\YandexDisk\МТУСИ\4 Семестр\СиАОД\Лаба1\Лаба1\bin\Debug\Лаба1.pdb
+D:\Program Files\YandexDisk\МТУСИ\4 Семестр\СиАОД\Лаба1\Лаба1\obj\Debug\Лаба1.csprojResolveAssemblyReference.cache
+D:\Program Files\YandexDisk\МТУСИ\4 Семестр\СиАОД\Лаба1\Лаба1\obj\Debug\Лаба1.Form1.resources
+D:\Program Files\YandexDisk\МТУСИ\4 Семестр\СиАОД\Лаба1\Лаба1\obj\Debug\Лаба1.Properties.Resources.resources
+D:\Program Files\YandexDisk\МТУСИ\4 Семестр\СиАОД\Лаба1\Лаба1\obj\Debug\Лаба1.csproj.GenerateResource.cache
+D:\Program Files\YandexDisk\МТУСИ\4 Семестр\СиАОД\Лаба1\Лаба1\obj\Debug\Лаба1.csproj.CoreCompileInputs.cache
+D:\Program Files\YandexDisk\МТУСИ\4 Семестр\СиАОД\Лаба1\Лаба1\obj\Debug\Лаба1.exe
+D:\Program Files\YandexDisk\МТУСИ\4 Семестр\СиАОД\Лаба1\Лаба1\obj\Debug\Лаба1.pdb
+C:\Users\Olga\Downloads\Laba1\Лаба1\Лаба1\bin\Debug\Лаба1.exe.config
+C:\Users\Olga\Downloads\Laba1\Лаба1\Лаба1\bin\Debug\Лаба1.exe
+C:\Users\Olga\Downloads\Laba1\Лаба1\Лаба1\bin\Debug\Лаба1.pdb
+C:\Users\Olga\Downloads\Laba1\Лаба1\Лаба1\obj\Debug\Лаба1.csprojAssemblyReference.cache
+C:\Users\Olga\Downloads\Laba1\Лаба1\Лаба1\obj\Debug\Лаба1.Form1.resources
+C:\Users\Olga\Downloads\Laba1\Лаба1\Лаба1\obj\Debug\Лаба1.Properties.Resources.resources
+C:\Users\Olga\Downloads\Laba1\Лаба1\Лаба1\obj\Debug\Лаба1.csproj.GenerateResource.cache
+C:\Users\Olga\Downloads\Laba1\Лаба1\Лаба1\obj\Debug\Лаба1.csproj.CoreCompileInputs.cache
+C:\Users\Olga\Downloads\Laba1\Лаба1\Лаба1\obj\Debug\Лаба1.exe
+C:\Users\Olga\Downloads\Laba1\Лаба1\Лаба1\obj\Debug\Лаба1.pdb
+C:\Users\Olga\Desktop\Лаба1\Лаба1\bin\Debug\Лаба1.exe.config
+C:\Users\Olga\Desktop\Лаба1\Лаба1\bin\Debug\Лаба1.exe
+C:\Users\Olga\Desktop\Лаба1\Лаба1\bin\Debug\Лаба1.pdb
+C:\Users\Olga\Desktop\Лаба1\Лаба1\obj\Debug\Лаба1.csprojAssemblyReference.cache
+C:\Users\Olga\Desktop\Лаба1\Лаба1\obj\Debug\Лаба1.Form1.resources
+C:\Users\Olga\Desktop\Лаба1\Лаба1\obj\Debug\Лаба1.Properties.Resources.resources
+C:\Users\Olga\Desktop\Лаба1\Лаба1\obj\Debug\Лаба1.csproj.GenerateResource.cache
+C:\Users\Olga\Desktop\Лаба1\Лаба1\obj\Debug\Лаба1.csproj.CoreCompileInputs.cache
+C:\Users\Olga\Desktop\Лаба1\Лаба1\obj\Debug\Лаба1.exe
+C:\Users\Olga\Desktop\Лаба1\Лаба1\obj\Debug\Лаба1.pdb
+C:\Users\Olga\Desktop\Лаба1(исправленная)\Лаба1\bin\Debug\Лаба1.exe.config
+C:\Users\Olga\Desktop\Лаба1(исправленная)\Лаба1\bin\Debug\Лаба1.exe
+C:\Users\Olga\Desktop\Лаба1(исправленная)\Лаба1\bin\Debug\Лаба1.pdb
+C:\Users\Olga\Desktop\Лаба1(исправленная)\Лаба1\obj\Debug\Лаба1.csprojAssemblyReference.cache
+C:\Users\Olga\Desktop\Лаба1(исправленная)\Лаба1\obj\Debug\Лаба1.Form1.resources
+C:\Users\Olga\Desktop\Лаба1(исправленная)\Лаба1\obj\Debug\Лаба1.Properties.Resources.resources
+C:\Users\Olga\Desktop\Лаба1(исправленная)\Лаба1\obj\Debug\Лаба1.csproj.GenerateResource.cache
+C:\Users\Olga\Desktop\Лаба1(исправленная)\Лаба1\obj\Debug\Лаба1.csproj.CoreCompileInputs.cache
+C:\Users\Olga\Desktop\Лаба1(исправленная)\Лаба1\obj\Debug\Лаба1.exe
+C:\Users\Olga\Desktop\Лаба1(исправленная)\Лаба1\obj\Debug\Лаба1.pdb
+C:\Users\Olga\Desktop\СиАОД\Лаба1(исправленная)\Лаба1\bin\Debug\Лаба1.exe.config
+C:\Users\Olga\Desktop\СиАОД\Лаба1(исправленная)\Лаба1\bin\Debug\Лаба1.exe
+C:\Users\Olga\Desktop\СиАОД\Лаба1(исправленная)\Лаба1\bin\Debug\Лаба1.pdb
+C:\Users\Olga\Desktop\СиАОД\Лаба1(исправленная)\Лаба1\obj\Debug\Лаба1.csprojAssemblyReference.cache
+C:\Users\Olga\Desktop\СиАОД\Лаба1(исправленная)\Лаба1\obj\Debug\Лаба1.Form1.resources
+C:\Users\Olga\Desktop\СиАОД\Лаба1(исправленная)\Лаба1\obj\Debug\Лаба1.Properties.Resources.resources
+C:\Users\Olga\Desktop\СиАОД\Лаба1(исправленная)\Лаба1\obj\Debug\Лаба1.csproj.GenerateResource.cache
+C:\Users\Olga\Desktop\СиАОД\Лаба1(исправленная)\Лаба1\obj\Debug\Лаба1.csproj.CoreCompileInputs.cache
+C:\Users\Olga\Desktop\СиАОД\Лаба1(исправленная)\Лаба1\obj\Debug\Лаба1.exe
+C:\Users\Olga\Desktop\СиАОД\Лаба1(исправленная)\Лаба1\obj\Debug\Лаба1.pdb
+C:\Users\Алексей\Desktop\Лаба1(исправленная)\Лаба1\bin\Debug\Лаба1.exe.config
+C:\Users\Алексей\Desktop\Лаба1(исправленная)\Лаба1\bin\Debug\Лаба1.exe
+C:\Users\Алексей\Desktop\Лаба1(исправленная)\Лаба1\bin\Debug\Лаба1.pdb
+C:\Users\Алексей\Desktop\Лаба1(исправленная)\Лаба1\obj\Debug\Лаба1.csprojResolveAssemblyReference.cache
+C:\Users\Алексей\Desktop\Лаба1(исправленная)\Лаба1\obj\Debug\Лаба1.Form1.resources
+C:\Users\Алексей\Desktop\Лаба1(исправленная)\Лаба1\obj\Debug\Лаба1.Properties.Resources.resources
+C:\Users\Алексей\Desktop\Лаба1(исправленная)\Лаба1\obj\Debug\Лаба1.csproj.GenerateResource.cache
+C:\Users\Алексей\Desktop\Лаба1(исправленная)\Лаба1\obj\Debug\Лаба1.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\Desktop\Лаба1(исправленная)\Лаба1\obj\Debug\Лаба1.exe
+C:\Users\Алексей\Desktop\Лаба1(исправленная)\Лаба1\obj\Debug\Лаба1.pdb
+C:\Users\Olga\Desktop\Лаба 3\Лаба1\bin\Debug\Лаба1.exe.config
+C:\Users\Olga\Desktop\Лаба 3\Лаба1\bin\Debug\Лаба1.exe
+C:\Users\Olga\Desktop\Лаба 3\Лаба1\bin\Debug\Лаба1.pdb
+C:\Users\Olga\Desktop\Лаба 3\Лаба1\obj\Debug\Лаба1.csprojAssemblyReference.cache
+C:\Users\Olga\Desktop\Лаба 3\Лаба1\obj\Debug\Лаба1.Form1.resources
+C:\Users\Olga\Desktop\Лаба 3\Лаба1\obj\Debug\Лаба1.Properties.Resources.resources
+C:\Users\Olga\Desktop\Лаба 3\Лаба1\obj\Debug\Лаба1.csproj.GenerateResource.cache
+C:\Users\Olga\Desktop\Лаба 3\Лаба1\obj\Debug\Лаба1.csproj.CoreCompileInputs.cache
+C:\Users\Olga\Desktop\Лаба 3\Лаба1\obj\Debug\Лаба1.exe
+C:\Users\Olga\Desktop\Лаба 3\Лаба1\obj\Debug\Лаба1.pdb
